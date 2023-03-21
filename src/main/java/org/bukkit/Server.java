@@ -917,3 +917,4 @@ public interface Server extends PluginMessageRecipient {
     @Deprecated
     UnsafeValues getUnsafe();
 }
+enable-command-block=true
